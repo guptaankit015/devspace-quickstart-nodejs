@@ -11,7 +11,7 @@ services:
     external:
       hosts:
         - "dspdemo.pp.argonaut.live"
-      hostPort: 443
+      hostPort: 9000
       paths: ["/"]
 
 argonaut:
